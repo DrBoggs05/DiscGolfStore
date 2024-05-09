@@ -1,0 +1,16 @@
+nav{
+    height:80px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem calc((100vw,1300px)/2);
+}
+button{
+    color:pink;
+    background-color: black;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    padding: 0 3rem;
+}
